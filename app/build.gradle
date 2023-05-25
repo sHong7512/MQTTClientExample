@@ -46,4 +46,6 @@ dependencies {
     implementation 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.1'
     // Klog
     implementation 'com.github.sHong7512:Klog:0.0.1'
+    // ImageConverter
+    implementation 'com.github.sHong7512:ImageConverter:0.0.0'
 }
